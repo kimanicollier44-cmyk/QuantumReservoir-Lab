@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](QuantumReservoir-Lab%20cover.png)
 
 # QuantumReservoir-Lab 🌊⚛️
 
